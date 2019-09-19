@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="SearchBar">
+        //Base
+        <attr name="speechMode" format="boolean"/>
+        <attr name="maxSuggestionsCount" format="integer"/>
+        <attr name="navIconEnabled" format="boolean"/>
+        <attr name="roundedSearchBarEnabled"    format="boolean"/>
+        <attr name="menuDividerEnabled" format="boolean"/>
+        <attr name="dividerColor" format="color"/>
+        <attr name="searchBarColor" format="color"/>
+
+        //Icons
+        <attr name="menuIconDrawable" format="reference"/>
+        <attr name="searchIconDrawable" format="reference"/>
+        <attr name="speechIconDrawable" format="reference"/>
+        <attr name="backIconDrawable" format="reference"/>
+        <attr name="clearIconDrawable" format="reference"/>
+        <attr name="navIconTint" format="color"/>
+        <attr name="menuIconTint" format="color"/>
+        <attr name="searchIconTint" format="color"/>
+        <attr name="backIconTint" format="color"/>
+        <attr name="clearIconTint" format="color"/>
+        <attr name="navIconUseTint" format="boolean"/>
+        <attr name="menuIconUseTint" format="boolean"/>
+        <attr name="searchIconUseTint" format="boolean"/>
+        <attr name="backIconUseTint" format="boolean"/>
+        <attr name="clearIconUseTint" format="boolean"/>
+        <attr name="borderlessRippleEnabled" format="boolean"/>
+
+        //Text
+        <attr name="hint" format="string"/>
+        <attr name="placeholder" format="string"/>
+        <attr name="textColor" format="color"/>
+        <attr name="hintColor" format="color"/>
+        <attr name="placeholderColor" format="color"/>
+        <attr name="textCursorTint" format="color"/>
+        <attr name="leftTextSelectorDrawable" format="reference"/>
+        <attr name="middleTextSelectorDrawable" format="reference"/>
+        <attr name="rightTextSelectorDrawable" format="reference"/>
+        <attr name="leftTextSelectorTint" format="color"/>
+        <attr name="middleTextSelectorTint" format="color"/>
+        <attr name="rightTextSelectorTint" format="color"/>
+        <attr name="handlesTintEnabled" format="boolean"/>
+        <attr name="highlightedTextColor" format="color"/>
+    </declare-styleable>
+</resources>
