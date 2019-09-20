@@ -17,7 +17,7 @@ allprojects {
 
 ```
 dependencies {
-	implementation 'com.github.harsh-2711:appbase-search-widget:tag'
+	implementation 'com.github.appbaseio:android-search-ui:tag'
 }
 ```
 
