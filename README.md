@@ -13,7 +13,7 @@ allprojects {
 }
 ```
 
-* Add `appbase-search-widget` dependency in app level gradle file
+* Add `android-search-ui` dependency in app level gradle file
 
 ```
 dependencies {
