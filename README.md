@@ -21,7 +21,7 @@ dependencies {
 }
 ```
 
-NOTE: Latest tag is [v0.1.6](https://github.com/harsh-2711/appbase-search-widget/releases/tag/v0.1.6)
+NOTE: Latest tag is [v0.0.1](https://github.com/appbaseio/android-search-ui/releases/tag/v0.0.1)
 
 ### Adding Search Bar into Android project
 
