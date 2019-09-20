@@ -5,6 +5,7 @@ var classcom_1_1harsh_1_1searchwidget_1_1_adapter_1_1_default_client_suggestions
     [ "RedirectClickListener", "interfacecom_1_1harsh_1_1searchwidget_1_1_adapter_1_1_default_client_suggestions_adapter_1_1_redirect_click_listener.html", "interfacecom_1_1harsh_1_1searchwidget_1_1_adapter_1_1_default_client_suggestions_adapter_1_1_redirect_click_listener" ],
     [ "DefaultClientSuggestionsAdapter", "classcom_1_1harsh_1_1searchwidget_1_1_adapter_1_1_default_client_suggestions_adapter.html#a5eb2acb186ad3e89498d9544b1aebd13", null ],
     [ "DefaultClientSuggestionsAdapter", "classcom_1_1harsh_1_1searchwidget_1_1_adapter_1_1_default_client_suggestions_adapter.html#a9469ac3c5f5ec7ebdbdea18b29f2ae22", null ],
+    [ "DefaultClientSuggestionsAdapter", "classcom_1_1harsh_1_1searchwidget_1_1_adapter_1_1_default_client_suggestions_adapter.html#a039b9d009507e4895aca9da33bd136e0", null ],
     [ "clear", "classcom_1_1harsh_1_1searchwidget_1_1_adapter_1_1_default_client_suggestions_adapter.html#a965beed8380db5f824e74ca55379b4ab", null ],
     [ "getItem", "classcom_1_1harsh_1_1searchwidget_1_1_adapter_1_1_default_client_suggestions_adapter.html#aa8f3e4c6df1aed8e3da3f60e953e678f", null ],
     [ "getItemCount", "classcom_1_1harsh_1_1searchwidget_1_1_adapter_1_1_default_client_suggestions_adapter.html#abf8cfecc793397ecaa7a549ded98fa59", null ],

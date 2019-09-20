@@ -1,6 +1,6 @@
 var classcom_1_1harsh_1_1searchwidget_1_1_model_1_1_search_prop_model =
 [
-    [ "SearchPropModel", "classcom_1_1harsh_1_1searchwidget_1_1_model_1_1_search_prop_model.html#aa2479e513eda013d1a222cf3f9875f00", null ],
+    [ "SearchPropModel", "classcom_1_1harsh_1_1searchwidget_1_1_model_1_1_search_prop_model.html#a9be715bcd4bedfc8c4cf67f1173c83d2", null ],
     [ "getAggregationFields", "classcom_1_1harsh_1_1searchwidget_1_1_model_1_1_search_prop_model.html#a70d0d614e21adf4c4ae3c790617bc04f", null ],
     [ "getAggregationName", "classcom_1_1harsh_1_1searchwidget_1_1_model_1_1_search_prop_model.html#a45b2f6e10a3f69f30119f56358d75100", null ],
     [ "getAggregrationState", "classcom_1_1harsh_1_1searchwidget_1_1_model_1_1_search_prop_model.html#a558a8d6f92a837b4ec41299329238d1e", null ],
@@ -19,6 +19,7 @@ var classcom_1_1harsh_1_1searchwidget_1_1_model_1_1_search_prop_model =
     [ "getWeights", "classcom_1_1harsh_1_1searchwidget_1_1_model_1_1_search_prop_model.html#addeada7ff98e988be0f19885b4361758", null ],
     [ "isAutoSuggest", "classcom_1_1harsh_1_1searchwidget_1_1_model_1_1_search_prop_model.html#a5e876b975126c50dfeb8be115d374f8f", null ],
     [ "isHighlight", "classcom_1_1harsh_1_1searchwidget_1_1_model_1_1_search_prop_model.html#a508168570b46d0a47ed29d40bb58c5a6", null ],
+    [ "isInPlaceCategory", "classcom_1_1harsh_1_1searchwidget_1_1_model_1_1_search_prop_model.html#a99a65fe63aa56df15fb61da6ba41557e", null ],
     [ "isRedirectIcon", "classcom_1_1harsh_1_1searchwidget_1_1_model_1_1_search_prop_model.html#a8f51da0808c354840791d6844de1ecb6", null ],
     [ "isSearchResultImage", "classcom_1_1harsh_1_1searchwidget_1_1_model_1_1_search_prop_model.html#ad0f329457b5e6e6e9daaeff24342b93b", null ],
     [ "setAggregationFields", "classcom_1_1harsh_1_1searchwidget_1_1_model_1_1_search_prop_model.html#ad5c53d3394f1756b62f7359e7bf8c953", null ],
@@ -36,6 +37,7 @@ var classcom_1_1harsh_1_1searchwidget_1_1_model_1_1_search_prop_model =
     [ "setHighlight", "classcom_1_1harsh_1_1searchwidget_1_1_model_1_1_search_prop_model.html#a751af53db0a296cdac0356399c005888", null ],
     [ "setHighlightField", "classcom_1_1harsh_1_1searchwidget_1_1_model_1_1_search_prop_model.html#ab4333dc6389cf757d4c7aea83d746c6b", null ],
     [ "setHitsState", "classcom_1_1harsh_1_1searchwidget_1_1_model_1_1_search_prop_model.html#aa003cafc89ccddbc8defedcaf8d084d3", null ],
+    [ "setInPlaceCategory", "classcom_1_1harsh_1_1searchwidget_1_1_model_1_1_search_prop_model.html#ad20c667b829d0f62d2a443056fdb5a9b", null ],
     [ "setQueryFormat", "classcom_1_1harsh_1_1searchwidget_1_1_model_1_1_search_prop_model.html#a1195f8c63d91ca3d10f94beb2a9302d0", null ],
     [ "setRedirectIcon", "classcom_1_1harsh_1_1searchwidget_1_1_model_1_1_search_prop_model.html#a7d1dec64501004cf25c8e710e8ec44be", null ],
     [ "setSearchResultImage", "classcom_1_1harsh_1_1searchwidget_1_1_model_1_1_search_prop_model.html#a9e370d8dce01b49313e38c038d17110c", null ],

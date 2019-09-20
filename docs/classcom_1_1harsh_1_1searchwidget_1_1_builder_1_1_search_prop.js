@@ -15,6 +15,7 @@ var classcom_1_1harsh_1_1searchwidget_1_1_builder_1_1_search_prop =
     [ "setHighlight", "classcom_1_1harsh_1_1searchwidget_1_1_builder_1_1_search_prop.html#a8856cf03d05f0b1848d7211c08948cbd", null ],
     [ "setHighlightField", "classcom_1_1harsh_1_1searchwidget_1_1_builder_1_1_search_prop.html#a1b444b238cd25c576256e19a2baa46d9", null ],
     [ "setHitsEnabled", "classcom_1_1harsh_1_1searchwidget_1_1_builder_1_1_search_prop.html#a861e80a9129c26be21518894e0d755c5", null ],
+    [ "setInPlaceCategory", "classcom_1_1harsh_1_1searchwidget_1_1_builder_1_1_search_prop.html#a2d9b5d149ce5e3628199224f50991eb6", null ],
     [ "setQueryFormat", "classcom_1_1harsh_1_1searchwidget_1_1_builder_1_1_search_prop.html#a6075911d903f28422d93ec8b4793c602", null ],
     [ "setRedirectIcon", "classcom_1_1harsh_1_1searchwidget_1_1_builder_1_1_search_prop.html#aa3d16bfd53126370d412acda430d82a8", null ],
     [ "setSearchResultImage", "classcom_1_1harsh_1_1searchwidget_1_1_builder_1_1_search_prop.html#afffdb45141a82e7df02560e36d467aa3", null ],

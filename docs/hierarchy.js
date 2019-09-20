@@ -24,10 +24,10 @@ var hierarchy =
     [ "OnItemTouchListener", null, [
       [ "com.harsh.searchwidget.Listener.CustomRVItemTouchListener", "classcom_1_1harsh_1_1searchwidget_1_1_listener_1_1_custom_r_v_item_touch_listener.html", null ]
     ] ],
+    [ "com.harsh.searchwidget.Adapter.DefaultClientSuggestionsAdapter.OnItemViewClickListener", "interfacecom_1_1harsh_1_1searchwidget_1_1_adapter_1_1_default_client_suggestions_adapter_1_1_on_item_view_click_listener.html", null ],
     [ "com.harsh.searchwidget.Adapter.SuggestionsAdapter< S, V extends RecyclerView.ViewHolder >.OnItemViewClickListener", "interfacecom_1_1harsh_1_1searchwidget_1_1_adapter_1_1_suggestions_adapter_1_1_on_item_view_click_listener.html", [
       [ "com.harsh.searchwidget.SearchBar", "classcom_1_1harsh_1_1searchwidget_1_1_search_bar.html", null ]
     ] ],
-    [ "com.harsh.searchwidget.Adapter.DefaultClientSuggestionsAdapter.OnItemViewClickListener", "interfacecom_1_1harsh_1_1searchwidget_1_1_adapter_1_1_default_client_suggestions_adapter_1_1_on_item_view_click_listener.html", null ],
     [ "com.harsh.searchwidget.Adapter.DefaultLocalSuggestionsAdapter.OnItemViewClickListener", "interfacecom_1_1harsh_1_1searchwidget_1_1_adapter_1_1_default_local_suggestions_adapter_1_1_on_item_view_click_listener.html", null ],
     [ "com.harsh.searchwidget.SearchBar.OnSearchActionListener", "interfacecom_1_1harsh_1_1searchwidget_1_1_search_bar_1_1_on_search_action_listener.html", null ],
     [ "com.harsh.searchwidget.Adapter.DefaultClientSuggestionsAdapter.RecyclerItemClickListener", "interfacecom_1_1harsh_1_1searchwidget_1_1_adapter_1_1_default_client_suggestions_adapter_1_1_recycler_item_click_listener.html", null ],
