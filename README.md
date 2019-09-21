@@ -1,4 +1,4 @@
-# appbase-search-widget
+# android-search-ui
 
 ### Installation
 
