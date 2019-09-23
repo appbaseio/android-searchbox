@@ -1,4 +1,4 @@
-# android-search-ui
+# android-searchbox
 
 ### Installation
 
@@ -13,15 +13,15 @@ allprojects {
 }
 ```
 
-* Add `android-search-ui` dependency in app level gradle file
+* Add `android-searchbox` dependency in app level gradle file
 
 ```
 dependencies {
-	implementation 'com.github.appbaseio:android-search-ui:tag'
+	implementation 'com.github.appbaseio:android-searchbox:tag'
 }
 ```
 
-NOTE: Latest tag is [v0.0.1](https://github.com/appbaseio/android-search-ui/releases/tag/v0.0.1)
+NOTE: Latest tag is [v0.0.1](https://github.com/appbaseio/android-searchbox/releases/tag/v0.0.1)
 
 ### Adding Search Bar into Android project
 
@@ -181,9 +181,9 @@ public class MainActivity extends AppCompatActivity {
 
 For more detailed examples, checkout -
 
-1. [MainActivity.java](https://github.com/harsh-2711/appbase-search-widget/blob/master/example/src/main/java/com/example/searchwidgetdemo/MainActivity.java) file in [example](https://github.com/harsh-2711/appbase-search-widget/tree/master/example) app - Extended code of the above example including usage of all the main functions available with the Search UI component
+1. [MainActivity.java](https://github.com/appbaseio/android-searchbox/blob/master/example/src/main/java/com/harsh/searchwidgetdemo/MainActivity.java) file in [example](https://github.com/appbaseio/android-searchbox/tree/master/example) app - Extended code of the above example including usage of all the main functions available with the Search UI component
 2. [MagicPrint App](https://github.com/harsh-2711/Appbase_ECommerce_Sample) - The app demonstrates the use of search functionality of the Search UI component on large scale and huge database apps.
-3. [KitchenSink App](https://github.com/harsh-2711/KitchenSinkApp) - An Android app which demonstrates every feature available in the [android-search-ui](https://github.com/appbaseio/android-search-ui) library in detail with reconfigurable codebase for manual testing
+3. [KitchenSink App](https://github.com/harsh-2711/KitchenSinkApp) - An Android app which demonstrates every feature available in the [android-box](https://github.com/appbaseio/android-searchbox) library in detail with reconfigurable codebase for manual testing
 
 #### Quick Fixes
 
@@ -215,4 +215,4 @@ in the app level dependencies
 
 ### Documentation
 
-The documentation for [android-search-ui](https://github.com/appbaseio/android-search-ui) library is hosted on [GitHub pages](https://harsh-2711.github.io/appbase-search-widget/)
+The documentation for [android-search-ui](https://github.com/appbaseio/android-search-ui) library is hosted on [GitHub pages](https://opensource.appbase.io/android-searchbox/)
